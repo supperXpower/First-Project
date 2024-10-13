@@ -1,1 +1,2 @@
-I'm a text file
+I'm a text file.
+Now I'm a edited text file.
